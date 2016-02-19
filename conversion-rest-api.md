@@ -1,6 +1,6 @@
 # Conversion REST API Exercise
 
-Competencies Targeted: **Java & Spring MVC**
+Competencies Targeted: **Java, Spring MVC, & HTTP/REST**
 
 ### Stories
 
